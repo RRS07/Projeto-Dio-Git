@@ -1,2 +1,3 @@
-# Projeto-Dio-Git
-Primeiro projeto com a Dio
+# Projeto-Dio
+Minhas anotações sobre os cursos feitos na Dio.
+
