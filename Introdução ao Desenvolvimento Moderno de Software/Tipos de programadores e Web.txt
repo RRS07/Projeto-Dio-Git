@@ -1,0 +1,8 @@
+.Front-End:
+O DEV Front-End atua na modelagem da interface de um software. Na prática, essa pessoa constrói aquilo com que o usuário terá interação direta, buscando proporcionar uma experiência intuitiva e agradável.É o trabalho de Front-End que determina a identidade visual de um site ou aplicativo, por exemplo.
+
+.Back-End:
+O DEV Back-End trabalho com os processos internos, ou seja, tudo que está por trás da aplicação.
+
+.Full-Stack:
+É o tipo de programador cujo trabalho atinge o maior nível de complexidade.

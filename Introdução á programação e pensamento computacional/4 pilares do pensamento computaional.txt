@@ -1,0 +1,11 @@
+1. Decomposição
+Quando o sistema computacional precisa solucionar um problema complexo, a primeira fase é identificá-lo e, posteriormente, dividi-lo em processos mais simples.O mesmo pode ser aplicado em outros problemas do cotidiano, com a finalidade de facilitar a resolução.
+
+2. Reconhecimento de padrões
+A ideia é conseguir visualizar pontos comuns tanto no próprio problema, como em outras soluções que já encontramos.
+
+3. Abstração
+Traz a ideia de filtrar o conteúdo recebido, de maneira a eliminar o excesso de informação irrelevante.
+
+4. Algoritmos
+Por fim, com todos os pilares anteriores, é possível identificar e criar regras para a resolução de problemas complexos. O último pilar do pensamento computacional é, portanto, a construção de algoritmos que, além de solucionar a questão estudada, também possibilitam a criação de um banco de soluções replicáveis.

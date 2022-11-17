@@ -1,0 +1,1 @@
+Vetores e matrizes são coleções de variáveis contínuas na memória e acessadas através de um número de índice. A diferença entre vetores e matrizes é que vetores são de uma única dimensão, enquanto matrizes podem conter várias dimensões.

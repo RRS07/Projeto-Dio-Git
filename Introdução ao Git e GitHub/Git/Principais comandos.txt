@@ -1,0 +1,6 @@
+.git init-Cria um repositório novo ou transforma uma pasta que você já tem e que não está com controle de versão em um repositório
+.git clone <https://url-do-link>-Baixa um repositório de um repositório remoto,exemplo o Github,para o seu computador.
+.git status-Verifica se alguma mudança foi feita no repositório.
+.git commit-Salva as alterações de código.
+.git checkout <arquivo>-Descarta mudanças em algum arquivo específico.
+.git push-Envia as atualizações feitas para o repositório remoto.

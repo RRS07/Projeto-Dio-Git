@@ -1,0 +1,5 @@
+1.Acessar o site(https://git-scm.com/download/win) e fazer o download do instaldor do Git no Windows
+2.Clicar no instalador baixado e ir clicando next até o fim.
+3.Executar os comandos para configurar o email e  usuário que serão associados ao seu GIT:
+git config --global user.name "Nome"
+git config --global user.email "Seu e-mail"

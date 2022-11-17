@@ -1,0 +1,5 @@
+O Git é um controle de versão distribuído e gerenciador de códigos fonte mais popular do mundo. Foi desenvolvido inicialmente pelo criador do Kernel do Linux, o famoso Linus Torvalds em meados de 2005.
+Tudo começou quando houve um rompimento da relação entre a comunidade que desenvolvia o Kernel do Linux e a BitKeeper. 
+Nesse rompimento houve também a invalidação do insento de pagamento da ferramenta e o BitKeeper passou a ser uma ferramante paga para Linus e sua turma.
+A revogação do inseto de pagamento e o rompimento da relação com a BitKeeper, levou Linus Torvalds a desenvolver seu próprio controle de versão, baseado nas experiências de uso da BetKeeper, visando obter uma melhor performance dentre todos os sistemas de controle de versão da época.
+Então, em 2005 surge o controle de versão mais utilizando no mundo atualmente, o Git. O significado de Git segundo o próprio Linus, é uma gíria britânica para cabeça dura.
